@@ -1,7 +1,7 @@
 
 const Login = () => {
     return(
-        <p>ini login</p>
+        <p>ini login 2</p>
     )
 }
 
